@@ -4,7 +4,7 @@
 
 ### Introduction
 
-In this project, I exploring some basic techniques for creating responsive web design using HTML and CSS. Responsive web design allows a website to adapt to the dimensions of the device it is being viewed on, whether it be a smartphone, tablet, or computer. By using breakpoints and media queries, I can create a seamless user experience across all devices.
+In this project, I explore some basic techniques for creating responsive web design using HTML and CSS. Responsive web design allows a website to adapt to the dimensions of the device it is being viewed on, whether it be a smartphone, tablet, or computer. By using breakpoints and media queries, I can create a seamless user experience across all devices.
 
     1. Change the color:
 
