@@ -8,7 +8,7 @@ In this project, I explore some basic techniques for creating responsive web des
 
     1. Change the color:
 
-To change the background color of the body element based on the width of the viewport, I will first need to create an HTML file and a CSS file. In the HTML file, I can include the following element to define the body:
+To change the background color of the body element based on the width of the viewport, I will first need to create an HTML file and a CSS file. In the HTML file.
 
 In the CSS file, I can then use media queries to specify different styles for different viewport widths. For example, to make the background color of the body red when the viewport width is smaller than 480px, green when the viewport width is bigger than or equal to 480px and smaller than 1024px, and blue when the viewport is bigger than or equal to 1024px.
 
