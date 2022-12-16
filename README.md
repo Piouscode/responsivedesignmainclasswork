@@ -43,10 +43,13 @@ To rearrange the layout of the div elements based on the viewport width, I use a
 With these styles in place, the layout of the div elements will adapt to the width of the viewport, resulting in a responsive design that adjusts to different device types and viewport sizes.
 
 **Desktop View**
+
 ![Screenshot 2022-12-16 at 18 31 12](https://user-images.githubusercontent.com/102190049/208160861-1bff29e6-185f-4f1c-8a56-435bf113d1db.png)
 
 **Tablet View**
+
 ![Screenshot 2022-12-16 at 18 31 31](https://user-images.githubusercontent.com/102190049/208160872-8370c9ff-55cc-4a8c-b9b6-b90682474c25.png)
 
 **Mobile Phone Devices View**
+
 ![Screenshot 2022-12-16 at 18 31 56](https://user-images.githubusercontent.com/102190049/208160887-35cad100-889c-4990-9fe6-a7fb1ffabbbe.png)
